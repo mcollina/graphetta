@@ -1,0 +1,19 @@
+{
+  "name": "graphetta",
+  "version": "0.0.1",
+  "description": "go away for now",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mcollina/graphetta.git"
+  },
+  "author": "Matteo Collina <hello@matteocollina.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mcollina/graphetta/issues"
+  },
+  "homepage": "https://github.com/mcollina/graphetta#readme"
+}
